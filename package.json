@@ -1,0 +1,23 @@
+{
+  "name": "netlify-function-typescript",
+  "version": "1.0.0",
+  "description": "A demo project using Netlify Functions with TypeScript",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardoboucas/netlify-function-typescript.git"
+  },
+  "keywords": [
+    "netlify",
+    "functions",
+    "serverless",
+    "typescript"
+  ],
+  "author": "Eduardo Bouças <eduardo@netlify.com>",
+  "bugs": {
+    "url": "https://github.com/eduardoboucas/netlify-function-typescript/issues"
+  },
+  "homepage": "https://github.com/eduardoboucas/netlify-function-typescript#readme",
+  "dependencies": {
+    "@netlify/functions": "^0.4.1"
+  }
+}
